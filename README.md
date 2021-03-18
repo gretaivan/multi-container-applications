@@ -4,7 +4,7 @@
 ### Demo Repo
 **Setup & Run**
 - Clone repo & `cd` into folder
-- `git submodule init --update`
+- `git submodule update --init`
 - `docker-compose up` or `bash _scripts/start-containers.sh`
 
 **To make changes to submodules** *(Please try this on your own version, not these demo repos!)*
