@@ -1,5 +1,5 @@
 ### Study Notes
-[Docker Compose 101](https://github.com/getfutureproof/fp_guides_wiki/wiki/Docker-Compose-101)
+| [Docker Compose 101](https://github.com/getfutureproof/fp_guides_wiki/wiki/Docker-Compose-101) | [git submodules documentation](https://git-scm.com/book/en/v2/Git-Tools-Submodules) |
 
 ### Demo Repo
 **Setup & Run**
