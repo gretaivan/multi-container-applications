@@ -1,0 +1,6 @@
+[submodule "mca-client"]
+	path = mca-client
+	url = git@github.com:getfutureproof/mca-client.git
+[submodule "mca-server"]
+	path = mca-server
+	url = git@github.com:getfutureproof/mca-server.git
