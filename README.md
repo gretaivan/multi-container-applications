@@ -11,7 +11,7 @@
 - `cd` into a submodule folder
 - `git checkout <a-branch>` (use `git branch` as reference)
 - make changes, stage, commit as usual
-- push with `git push --recurse-submodules=on-demand`
+- cd to your parent folder and push with `git push --recurse-submodules=on-demand`
 
 **To pull remote updates to submodules**
 - `git pull --recurse-submodules`
