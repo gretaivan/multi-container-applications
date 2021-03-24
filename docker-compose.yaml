@@ -27,8 +27,6 @@ services:
       - db
   db:
     image: mongo:latest
-    ports:
-        - 2701:27017
     environment: 
       - MONGO_INITDB_ROOT_USERNAME=doggos-admin
       - MONGO_INITDB_DATABASE=doggos
